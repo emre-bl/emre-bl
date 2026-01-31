@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Deep learning R&D | B.Sc. AI Eng | M.Sc. CS Student at Hacettepe Uni.**
+## **Deep learning R&D | B.Sc. AI Eng | M.Sc. CS Student at Hacettepe Uni.**
 
 
 </div>
