@@ -7,7 +7,7 @@
 
 <br/>
 
-### 🔭 Currently working on
+### Currently working on
 **Machine Learning, Deep Learning, Acoustic Sensing and Generative AI**
 
 
