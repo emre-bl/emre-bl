@@ -8,5 +8,3 @@
 **Currently working on Machine Learning, Deep Learning, Acoustic Sensing and Generative AI**
 
 
-https://github.com/user-attachments/assets/007e1f0e-e712-417a-9d4c-29a8588ee272
-
