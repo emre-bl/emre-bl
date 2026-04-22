@@ -8,4 +8,5 @@
 **Currently working on Machine Learning, Deep Learning, Acoustic Sensing and Generative AI**
 
 
-![Anasayfa-X_92-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/5dbbc210-bfc1-4010-9813-1e812ce9e057)
+<img width="800" height="340" alt="X_78-ezgif com-optimize (1)" src="https://github.com/user-attachments/assets/a30f7607-613a-4ca7-91ec-55bc7a42e32d" />
+
